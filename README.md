@@ -80,5 +80,5 @@ If you like, you can extend this repo by:
 
 Contributions are welcome! If you want to add examples or improve documentation — feel free to open an issue or submit a pull request.
 
----
+
 
