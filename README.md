@@ -1,5 +1,3 @@
-
-
 # JS Function Recap
 
 A collection of JavaScript examples and explanations to recap common function-related concepts: parameters, arguments, return values, function definitions, conditionals, and utility patterns. Useful for learners, revision, or quick reference.
